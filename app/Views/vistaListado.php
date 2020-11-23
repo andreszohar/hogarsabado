@@ -35,7 +35,7 @@
 <div>
     <br>
 
-<h1>Animales Registrados</h1>
+<h1>Hogar de paso Nuevo Porvenir</h1>
 
 <br><br><br>
 
