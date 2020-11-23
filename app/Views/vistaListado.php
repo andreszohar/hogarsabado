@@ -35,7 +35,7 @@
 <div>
     <br>
 
-<h1>Nuestros Animales Registrados</h1>
+<h1>Animales Registrados</h1>
 
 <br><br><br>
 
